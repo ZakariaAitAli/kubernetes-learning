@@ -4,7 +4,7 @@ Welcome to the Kubernetes Learning Roadmap repository! This repository is design
 
 ## Projects
 
-1. **[Setup Minikube](Project01/README.md)**
+1. **[Set up a local Kubernetes cluster using Minikube.](Project01/README.md)**
 2. **[Setup Kubernetes Cluster with kubeadm](Project02/README.md)**
 3. **[Set up a Highly Available Cluster](Project03/README.md)**
 4. **[Switch Container Runtimes](Project04/README.md)**
